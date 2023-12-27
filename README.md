@@ -65,7 +65,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 </details>
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://github.com/badmunda011/Man-Userbot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/badmunda98/BADMUSICX"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>"
 
 ## Updates & Support
 
